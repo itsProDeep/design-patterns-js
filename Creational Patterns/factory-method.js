@@ -1,11 +1,11 @@
 function createDev(name) {
     this.name = name,
-        this.type = "Developer"
+    this.type = "Developer"
 }
 
 function createTester(name) {
     this.name = name,
-        this.type = "Tester"
+    this.type = "Tester"
 }
 
 function EmployeeFactory() {
